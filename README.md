@@ -9,6 +9,11 @@ ios 13-16
 #### 介绍
 知苗易约小程序获取signature+主抢购程序，2022-11-28知苗易约小程序最新95版本
 
+功能:
+* 1.获取signature
+* 2.获取pid和mxid
+* 3.自动过验证码
+
 ### 获取signature
 
 最新版知苗易约获取signature的办法只能hook底层微信，
@@ -34,3 +39,4 @@ ios 13-16
 需要的话请私信
 
 github不常用，我的gitee地址 https://gitee.com/ali88888/zhimiaoyiyue-seckill-python
+
